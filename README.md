@@ -1,4 +1,4 @@
-# GYOES: **G**enerate **Y**our **O**wn **E**ntropy **S**eed
+# **G**enerate **Y**our **O**wn **E**ntropy **S**eed
 
 This project permits to generate your own **BIP39 seed** of 256 bit, by inputting any number(From 0-9) and using random variance to generate the rest of the numbers. So that you don't have to trust any organisation to track the random seed you used to generate your mnemonic.
 
